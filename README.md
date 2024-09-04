@@ -1,5 +1,5 @@
 # oliveyoung_recommendation_system
-Building Oliveyoung User Recommendation System (OUTTA AI Bootcamp Hackathon)
+Building Oliveyoung User Recommendation System (OUTTA AI Bootcamp Hackathon; 1st place)
 
 Code 1 : crawling.ipynb
 <br> do crawling product metadatas and user reviews from oliveyoung website
